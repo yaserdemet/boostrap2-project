@@ -1,0 +1,25 @@
+html,body{
+    height: 100%;
+    font-size: 1rem;
+}
+
+
+
+.gradient {
+    background: rgb(141,138,193);
+background: linear-gradient(90deg, rgba(141,138,193,1) 0%, rgba(47,31,111,1) 0%, rgba(133,122,179,1) 0%, rgba(6,8,80,1) 0%, rgba(89,17,144,1) 0%, rgba(0,212,255,1) 100%);
+
+
+}
+
+ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+.list li {
+    /* border: 2px red solid; */
+    background-image: url(./img/check.svg);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    padding-left: 2rem;
+}
