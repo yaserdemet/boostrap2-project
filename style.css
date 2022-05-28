@@ -24,6 +24,26 @@ ul {
     padding-left: 2rem;
 }
 
-.gallery {
+.gg {
     background-color: whitesmoke;
+}
+
+.gallery img {
+    border-radius: 15px;
+}
+
+.services button {
+    margin-bottom: 1rem;
+}
+
+textarea {
+    resize: none;
+}
+
+h1 i {
+    color: purple;
+}
+
+footer a {
+    text-decoration: none;
 }
